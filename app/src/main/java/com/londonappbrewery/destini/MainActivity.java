@@ -84,11 +84,6 @@ public class MainActivity extends AppCompatActivity {
                 }
             });
 
-
-
-
-
-
     }
 
     ////////////////////////////////////////methods for updating questions////////////////////////////////////////////////
